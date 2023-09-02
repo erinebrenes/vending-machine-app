@@ -70,3 +70,4 @@ The vending machine logs all transactions to prevent theft from the vending mach
     - The first dollar amount is the amount deposited, spent, or given as change.
     - The second dollar amount is the new balance.
 
+![vending_machine_app](https://github.com/erinebrenes/vending-machine-app/assets/126537392/280ab844-ee8d-46ba-a770-8256b8e3ab14)
